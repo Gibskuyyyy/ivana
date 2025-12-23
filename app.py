@@ -165,9 +165,9 @@ elif st.session_state.slide == 3:
         <div class="text">
         Lagu ini aku pilih  
         karena aku pengen kamu tahu satu hal:
-        aku pengen jadi tempat yang aman  
-        buat perasaan kamu,  
-        bukan orang yang bikin kamu ragu.
+        aku pengen jadi tempat kamu pulang,
+        aku pengen jadi tempat kamu keluh kesah,
+        segalanya tentang kamu buat kamu buat kita
         </div>
     </div>
     """, unsafe_allow_html=True)
